@@ -162,7 +162,7 @@ def page_overview(df: pd.DataFrame, forecast_df: pd.DataFrame, date_range, show_
 
     # --- KPI cards ---
     latest = filtered.iloc[-1]
-    prev = filtered.iloc[-2] if len(filtered) > 1 : filtered.iloc[-1]
+    prev = filtered.iloc[-2] if len(filtered) > 1 else filtered.iloc[-1]
 
     current_idx = latest["demand_index"]
     mom_change = ((current_idx - prev["demand_index"]) / prev["demand_index"] * 100) if prev["demand_index"] else 0
