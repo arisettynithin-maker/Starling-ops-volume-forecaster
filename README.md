@@ -16,7 +16,7 @@ Starling's operations team handles a high and growing volume of inbound contacts
 
 <img width="1716" height="750" alt="Screenshot 2026-04-23 at 7 23 21 PM" src="https://github.com/user-attachments/assets/5158a8ad-99ac-4a70-944a-a4011e517ed4" />
 
-<img width="1716" height="750" alt="Screenshot 2026-04-23 at 7 23 21 PM" src="https://github.com/user-attachments/assets/8f6eb2f6-45af-4899-8697-06b5583e5be6" />
+<img width="1704" height="896" alt="Screenshot 2026-04-23 at 7 23 57 PM" src="https://github.com/user-attachments/assets/09c6a6cf-6387-46bc-8415-8e7a3d70b2c7" />
 
 
 ## What I Found
