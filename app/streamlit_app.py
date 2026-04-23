@@ -419,8 +419,8 @@ def page_macro(df: pd.DataFrame, date_range):
     ))
     fig2.update_layout(
         title=f"Demand Index vs {selected_macro} — Time Series",
-        yaxis=dict(title="Demand Index", titlefont_color=TEAL, tickfont_color=TEAL),
-        yaxis2=dict(title=selected_macro, titlefont_color=AMBER, tickfont_color=AMBER,
+        yaxis=dict(title="Demand Index", titlefont=dict(color=TEAL), tickfont=dict(color=TEAL)),
+        yaxis2=dict(title=selected_macro, titlefont=dict(color=AMBER), tickfont=dict(color=AMBER),
                     overlaying="y", side="right"),
         legend=dict(orientation="h", y=1.08),
         plot_bgcolor="rgba(0,0,0,0)", paper_bgcolor="rgba(0,0,0,0)",
