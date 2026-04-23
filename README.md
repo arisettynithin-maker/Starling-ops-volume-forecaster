@@ -48,6 +48,10 @@ Ten SQLite-compatible queries in `sql/`, covering YoY trend analysis, rolling av
 
 [Streamlit Cloud URL — add after deploying]
 
+## Repository
+
+[github.com/arisettynithin-maker/Starling-ops-volume-forecaster](https://github.com/arisettynithin-maker/Starling-ops-volume-forecaster)
+
 ---
 
 *Nithin Arisetty, 2024*
