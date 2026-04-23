@@ -10,6 +10,15 @@ Starling's operations team handles a high and growing volume of inbound contacts
 - **Google Trends (via pytrends)** — UK search volume for "Starling Bank" and "neobank help", used as a leading indicator that arrives before the 6-month FCA publication lag.
 - **ONS API** — UK unemployment rate (series LF24) and consumer confidence index, as macro context variables.
 
+<img width="1698" height="890" alt="Screenshot 2026-04-23 at 7 19 33 PM" src="https://github.com/user-attachments/assets/11cb52a6-b384-4816-88de-8880994fcfb3" />
+
+<img width="1690" height="961" alt="Screenshot 2026-04-23 at 7 20 54 PM" src="https://github.com/user-attachments/assets/5c532c60-5312-43b4-869f-aab9663fd8f7" />
+
+<img width="1716" height="750" alt="Screenshot 2026-04-23 at 7 23 21 PM" src="https://github.com/user-attachments/assets/5158a8ad-99ac-4a70-944a-a4011e517ed4" />
+
+<img width="1716" height="750" alt="Screenshot 2026-04-23 at 7 23 21 PM" src="https://github.com/user-attachments/assets/8f6eb2f6-45af-4899-8697-06b5583e5be6" />
+
+
 ## What I Found
 
 Complaint volumes follow a clear January spike — consistently 15–20% above the annual average — almost certainly driven by post-holiday payment disputes and customers reviewing their finances at the start of the year. Any headcount plan that doesn't account for this will be caught short in Q1.
@@ -46,7 +55,7 @@ Ten SQLite-compatible queries in `sql/`, covering YoY trend analysis, rolling av
 
 ## Live Demo
 
-[Streamlit Cloud URL — add after deploying]
+https://starling-ops-volume-forecaster.streamlit.app
 
 ## Repository
 
