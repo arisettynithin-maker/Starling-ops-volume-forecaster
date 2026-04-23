@@ -106,10 +106,6 @@ def _generate_demo_forecast() -> pd.DataFrame:
 # ---------------------------------------------------------------------------
 
 def render_sidebar(df: pd.DataFrame):
-    st.sidebar.image(
-        "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Starling_Bank_logo.svg/320px-Starling_Bank_logo.svg.png",
-        width=160,
-    )
     st.sidebar.title("Starling Ops Volume Forecaster")
     st.sidebar.markdown("---")
 
